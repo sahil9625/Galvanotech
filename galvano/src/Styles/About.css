@@ -1,0 +1,35 @@
+/* About.css */
+
+.about-section {
+  background: linear-gradient(to right, #Dce6ff, #54de54);
+  padding: 40px 20px;
+  color: #fff; /* Text color on the gradient background */
+}
+
+.about-text-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.about-title {
+  font-size: 2em;
+  color: #000; /* Title color set to black */
+  margin-bottom: 20px;
+}
+
+.about-description {
+  font-size: 1.1em;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  color: #fff; /* Text color on the gradient background */
+}
+
+.about-vision-title,
+.about-mission-title {
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: #000; /* Title color set to black */
+}
+
+/* Add your additional styling as needed */
